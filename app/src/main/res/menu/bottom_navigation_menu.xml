@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group>
+        <item android:id="@id/homeFragment"
+            android:title="@string/home"
+            android:icon="@drawable/ic_round_home"/>
+
+        <item android:id="@id/categoriesFragment"
+            android:title="@string/categories"
+            android:icon="@drawable/ic_round_category"/>
+
+        <item android:id="@id/favoritesFragment"
+            android:title="@string/favorites"
+            android:icon="@drawable/ic_round_favorite"/>
+
+        <item android:id="@id/premiumFragment"
+            android:title="@string/premium"
+            android:icon="@drawable/ic_round_premium"/>
+    </group>
+</menu>

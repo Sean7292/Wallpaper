@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Wallpaper</string>
+    <string name="home">Home</string>
+    <string name="categories">Categories</string>
+    <string name="favorites">Favorites</string>
+    <string name="premium">Premium</string>
 </resources>
